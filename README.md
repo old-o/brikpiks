@@ -1,2 +1,3 @@
-# brick-pixelator
-Turns digital images into brick patterns suitable for painting by numbers
+# brikpiks - A brick pattern pixelator
+
+Turns digital images into brick patterns suitable for mural painting by numbers
